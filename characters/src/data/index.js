@@ -6,6 +6,6 @@ module.exports = {
     },
 
     create: async () => {
-        throw Error("Hay un error en la BDDal momento de crear el personaje")
+        throw Error("Hay un error en la BDD al momento de crear el personaje")
     },
 }
